@@ -22,8 +22,8 @@ An intelligent AI-powered chatbot that provides real-time information about Vaul
 
 1. **Clone the repository**
 ```bash
-git clone <your-repo-url>
-cd vaultofcodes-chatbot
+git clone https://github.com/snehacat/vaultofcodes_bot.git
+cd vaultofcodes_bot
 ```
 
 2. **Install dependencies**
