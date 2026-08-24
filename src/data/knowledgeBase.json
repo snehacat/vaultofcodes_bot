@@ -1,0 +1,192 @@
+{
+  "courses": [
+    {
+      "id": "voc_courses",
+      "name": "Training & Internship Programs",
+      "category": "Training",
+      "description": "VaultOfCodes offers live training programs covering computer science subjects such as programming languages, web development, data science, and more. Expert instructors deliver hands-on sessions with 70% practical and 30% theoretical training.",
+      "features": [
+        "Live training from 10+ years experience experts",
+        "70% Practical Training, 30% Theoretical",
+        "2 Certificates (Training + Internship completion)",
+        "50GB+ Free Study Material",
+        "Resume building & Interview preparation",
+        "Real-world projects for portfolio building"
+      ],
+      "url": "https://www.vaultofcodes.in/courses"
+    }
+  ],
+  "training_programs": [
+    {
+      "id": "voc_training",
+      "name": "Computer Science Training Programs",
+      "duration": "6-15 hours total over 1 month (60-90 mins per class)",
+      "description": "Comprehensive training in programming languages, web development, data science with industry specialists.",
+      "features": [
+        "Suitable for all skill levels including beginners",
+        "Live interactive sessions",
+        "Hands-on practical approach",
+        "Real-world application through internships"
+      ],
+      "url": "https://www.vaultofcodes.in/courses"
+    }
+  ],
+  "internships": [
+    {
+      "id": "voc_internship",
+      "title": "Internships - VaultOfCodes",
+      "description": "Gain practical experience while learning. Build your portfolio through live projects with VaultOfCodes.",
+      "benefits": [
+        "Internship completion certificate",
+        "Training completion certificate",
+        "Free study materials (50GB+)",
+        "Resume building support",
+        "Interview preparation"
+      ],
+      "url": "https://www.vaultofcodes.in/courses"
+    }
+  ],
+  "certificates": [
+    {
+      "id": "voc_certificates",
+      "title": "Certificate Verification",
+      "description": "Verify your VaultOfCodes certificates online. Each certificate comes with a unique verification code.",
+      "features": [
+        "Online verification available",
+        "Unique certificate ID for each student",
+        "Downloadable certificates",
+        "Valid and recognized certificates"
+      ],
+      "url": "https://www.vaultofcodes.in/validate"
+    }
+  ],
+  "about": [
+    {
+      "id": "voc_about",
+      "title": "About VaultOfCodes",
+      "description": "VaultOfCodes is a leading EdTech platform providing quality training and internship programs in computer science and technology.",
+      "features": [
+        "10+ years of industry experience",
+        "Thousands of successful students",
+        "Industry-recognized certifications",
+        "Expert trainers and mentors"
+      ],
+      "url": "https://www.vaultofcodes.in/about-us"
+    }
+  ],
+  "contact": [
+    {
+      "id": "voc_contact",
+      "title": "Contact VaultOfCodes",
+      "description": "Get in touch with our support team for any queries or assistance.",
+      "contact_methods": [
+        "WhatsApp: +91 9455345519",
+        "Email: vaultofcodes@gmail.com",
+        "Phone: 011-69655581"
+      ],
+      "url": "https://www.vaultofcodes.in/contact-us"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "voc_testimonials",
+      "title": "Student Testimonials",
+      "description": "Read what our students say about their learning experience at VaultOfCodes.",
+      "url": "https://www.vaultofcodes.in/testimonials"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What kind of live training programs do you offer?",
+      "answer": "VaultOfCodes offers a variety of live training programs covering computer science subjects such as programming languages, web development, data science, and more. Expert instructors deliver hands-on sessions to enhance your practical skills. Visit our courses page for more details.",
+      "category": "training",
+      "url": "https://www.vaultofcodes.in/courses"
+    },
+    {
+      "question": "How long are your live training programs?",
+      "answer": "The duration of live training programs typically ranges from 6 to 15 hours total over 1 month. Each class is 60-90 mins long, providing comprehensive learning experiences.",
+      "category": "training",
+      "url": "https://www.vaultofcodes.in/courses"
+    },
+    {
+      "question": "Can I get a certificate after completing a program?",
+      "answer": "Yes! You will receive 2 certificates: an Internship completion certificate and a Training completion certificate upon successfully completing the programs. You can verify your certificates on our validation page.",
+      "category": "certificate",
+      "url": "https://www.vaultofcodes.in/validate"
+    },
+    {
+      "question": "What are the benefits of enrolling?",
+      "answer": "Benefits include live training, 2 certificates (Internship & Training completion), Free study material (50GB+), Resume building, and Interview preparation.",
+      "category": "enrollment",
+      "url": "https://www.vaultofcodes.in/courses"
+    },
+    {
+      "question": "Are the programs suitable for beginners?",
+      "answer": "Absolutely! Programs cater to participants of all skill levels, including beginners. They provide a solid foundation while offering advanced topics for experienced learners.",
+      "category": "training",
+      "url": "https://www.vaultofcodes.in/courses"
+    },
+    {
+      "question": "Is it mandatory to attend training?",
+      "answer": "No, training sessions are conducted for skill development & learning. They are not compulsory to attend.",
+      "category": "training",
+      "url": "https://www.vaultofcodes.in/courses"
+    },
+    {
+      "question": "How can I attend classes and submit assignments?",
+      "answer": "You can attend classes, submit assignments, and access study materials through the VaultOfCodes app or web portal. Details are explained in the orientation session after program starts.",
+      "category": "enrollment",
+      "url": "https://web.classplusapp.com/login?orgCode=xnigwq"
+    },
+    {
+      "question": "What if I face some issue and need help?",
+      "answer": "If you face any issue or problem, you can message VaultOfCodes on WhatsApp at 9455345519 or email at vaultofcodes@gmail.com. You can also visit our contact page.",
+      "category": "support",
+      "requires_human": true,
+      "url": "https://www.vaultofcodes.in/contact-us"
+    },
+    {
+      "question": "How can I verify my certificate?",
+      "answer": "You can verify your certificate online at our validation page. For certificate-related issues, contact VaultOfCodes support team via WhatsApp (9455345519) or email (vaultofcodes@gmail.com).",
+      "category": "certificate",
+      "requires_human": true,
+      "url": "https://www.vaultofcodes.in/validate"
+    },
+    {
+      "question": "Where can I find my offer letter?",
+      "answer": "Offer letters are available through your student portal. If you cannot find it, please contact VaultOfCodes support via WhatsApp (9455345519).",
+      "category": "offer_letter",
+      "requires_human": true,
+      "url": "https://web.classplusapp.com/login?orgCode=xnigwq"
+    },
+    {
+      "question": "Who are the trainers at VaultOfCodes?",
+      "answer": "Our trainers are industry experts with 10+ years of experience in their respective fields. Learn more about our team on the about us page.",
+      "category": "general",
+      "url": "https://www.vaultofcodes.in/about-us"
+    },
+    {
+      "question": "What do students say about VaultOfCodes?",
+      "answer": "We have thousands of satisfied students. You can read their success stories and testimonials on our testimonials page.",
+      "category": "general",
+      "url": "https://www.vaultofcodes.in/testimonials"
+    }
+  ],
+  "pages": {
+    "home": "https://www.vaultofcodes.in/",
+    "about": "https://www.vaultofcodes.in/about-us",
+    "courses": "https://www.vaultofcodes.in/courses",
+    "testimonials": "https://www.vaultofcodes.in/testimonials",
+    "validate": "https://www.vaultofcodes.in/validate",
+    "contact": "https://www.vaultofcodes.in/contact-us",
+    "free_tests": "https://www.vaultofcodes.in/freetest",
+    "login": "https://web.classplusapp.com/login?orgCode=xnigwq",
+    "support_whatsapp": "https://wa.me/919455345519",
+    "support_email": "mailto:vaultofcodes@gmail.com"
+  },
+  "contact": {
+    "whatsapp": "919455345519",
+    "email": "vaultofcodes@gmail.com",
+    "phone": "01169655581"
+  }
+}

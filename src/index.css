@@ -1,0 +1,130 @@
+@import "tailwindcss";
+
+@layer base {
+  * {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+    font-family: system-ui, -apple-system, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+}
+
+.chat-message {
+  border-radius: 0.75rem;
+  padding: 1rem;
+  max-width: 85%;
+  word-wrap: break-word;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+}
+
+.user-message {
+  background: linear-gradient(135deg, #6366F1 0%, #8B5CF6 100%);
+  color: white;
+  margin-left: auto;
+}
+
+.bot-message {
+  background-color: #F8FAFC;
+  color: #1E293B;
+  border: 1px solid #E2E8F0;
+}
+
+.suggested-question {
+  background-color: white;
+  border: 2px solid #E2E8F0;
+  border-radius: 0.75rem;
+  padding: 0.75rem 1rem;
+  font-size: 0.875rem;
+  color: #475569;
+  transition: all 0.2s;
+  cursor: pointer;
+  font-weight: 500;
+}
+
+.suggested-question:hover {
+  background: linear-gradient(135deg, #6366F1 0%, #8B5CF6 100%);
+  border-color: #6366F1;
+  color: white;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(99, 102, 241, 0.3);
+}
+
+.action-button {
+  background: linear-gradient(135deg, #6366F1 0%, #8B5CF6 100%);
+  color: white;
+  padding: 0.75rem 1.5rem;
+  border-radius: 0.75rem;
+  font-weight: 600;
+  transition: all 0.2s;
+  box-shadow: 0 4px 12px rgba(99, 102, 241, 0.3);
+}
+
+.action-button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(99, 102, 241, 0.4);
+}
+
+/* Scrollbar styling */
+.custom-scrollbar::-webkit-scrollbar {
+  width: 6px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 10px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 10px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+/* Animations */
+@keyframes slideUp {
+  from {
+    transform: translateY(10px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.animate-slide-up {
+  animation: slideUp 0.3s ease-out;
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.3s ease-out;
+}
+
+.animate-bounce {
+  animation: bounce 1s infinite;
+}
+
+@keyframes bounce {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-5px);
+  }
+}
